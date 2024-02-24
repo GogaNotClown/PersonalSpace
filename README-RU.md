@@ -1,4 +1,4 @@
-# PersonalSpace
+# PersonalSpace [EN](README.md)
 
 Самый лучший и минималистичный способ описать себя
 

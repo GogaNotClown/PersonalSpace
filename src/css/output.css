@@ -8226,6 +8226,14 @@ html:has(.drawer-open.drawer-open) {
   position: sticky;
 }
 
+.bottom-0 {
+  bottom: 0px;
+}
+
+.left-0 {
+  left: 0px;
+}
+
 .right-0 {
   right: 0px;
 }
@@ -8234,28 +8242,8 @@ html:has(.drawer-open.drawer-open) {
   top: 0px;
 }
 
-.left-0 {
-  left: 0px;
-}
-
 .isolate {
   isolation: isolate;
-}
-
-.col-span-2 {
-  grid-column: span 2 / span 2;
-}
-
-.col-start-1 {
-  grid-column-start: 1;
-}
-
-.col-start-2 {
-  grid-column-start: 2;
-}
-
-.row-start-1 {
-  grid-row-start: 1;
 }
 
 .m-4 {
@@ -8273,10 +8261,6 @@ html:has(.drawer-open.drawer-open) {
 
 .mt-3 {
   margin-top: 0.75rem;
-}
-
-.mt-10 {
-  margin-top: 2.5rem;
 }
 
 .block {
@@ -8315,6 +8299,10 @@ html:has(.drawer-open.drawer-open) {
   height: 10rem;
 }
 
+.h-5 {
+  height: 1.25rem;
+}
+
 .min-h-screen {
   min-height: 100vh;
 }
@@ -8323,20 +8311,12 @@ html:has(.drawer-open.drawer-open) {
   width: 10rem;
 }
 
-.w-full {
-  width: 100%;
-}
-
-.max-w-xs {
-  max-width: 20rem;
+.w-5 {
+  width: 1.25rem;
 }
 
 .transform {
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
-}
-
-.cursor-pointer {
-  cursor: pointer;
 }
 
 .resize {
@@ -8345,10 +8325,6 @@ html:has(.drawer-open.drawer-open) {
 
 .flex-col {
   flex-direction: column;
-}
-
-.place-items-center {
-  place-items: center;
 }
 
 .items-center {
@@ -8363,10 +8339,6 @@ html:has(.drawer-open.drawer-open) {
   gap: 0.5rem;
 }
 
-.gap-5 {
-  gap: 1.25rem;
-}
-
 .gap-3 {
   gap: 0.75rem;
 }
@@ -8377,6 +8349,10 @@ html:has(.drawer-open.drawer-open) {
   margin-left: calc(0.75rem * calc(1 - var(--tw-space-x-reverse)));
 }
 
+.rounded-box {
+  border-radius: var(--rounded-box, 1rem);
+}
+
 .rounded-md {
   border-radius: 0.375rem;
 }
@@ -8385,22 +8361,27 @@ html:has(.drawer-open.drawer-open) {
   border-width: 1px;
 }
 
-.bg-base-content {
+.bg-base-200 {
   --tw-bg-opacity: 1;
-  background-color: var(--fallback-bc,oklch(var(--bc)/var(--tw-bg-opacity)));
+  background-color: var(--fallback-b2,oklch(var(--b2)/var(--tw-bg-opacity)));
 }
 
-.fill-base-100 {
-  fill: var(--fallback-b1,oklch(var(--b1)/1));
+.fill-current {
+  fill: currentColor;
 }
 
-.stroke-base-100 {
-  stroke: var(--fallback-b1,oklch(var(--b1)/1));
+.p-4 {
+  padding: 1rem;
 }
 
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
+}
+
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .text-center {
@@ -8414,6 +8395,16 @@ html:has(.drawer-open.drawer-open) {
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
 }
 
 .font-bold {

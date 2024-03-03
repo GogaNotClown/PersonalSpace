@@ -1,4 +1,4 @@
-# PersonalSpace [RU](README_RU.md)
+# PersonalSpace [RU](README_RU.md) [Link to website](https://personalspacegeorge.netlify.app/)
 
 The best and minimalistic way to describe yourself
 

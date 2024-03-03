@@ -1,4 +1,4 @@
-# PersonalSpace [RU](README-RU.md)
+# PersonalSpace [RU](README_RU.md)
 
 The best and minimalistic way to describe yourself
 

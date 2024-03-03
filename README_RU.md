@@ -1,4 +1,4 @@
-# PersonalSpace [EN](README.md)
+# PersonalSpace [EN](README.md) [Ссылка на сайт](https://personalspacegeorge.netlify.app/)
 
 Самый лучший и минималистичный способ описать себя
 

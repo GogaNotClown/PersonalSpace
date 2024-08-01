@@ -9,7 +9,6 @@ The best and minimalistic way to describe yourself
 - [Installation](#installation)
 - [Config](#config)
 - [Technologies Used](#technologies-used)
-- [Contact](#contact)
 - [Project Status](#project-status)
 
 ## Installation
@@ -114,10 +113,6 @@ making it easier to create a unique and personalized user experience.
 - JS (JavaScript)
 - [TailwindCSS](https://tailwindcss.com/)
 - [daisyUI](https://daisyui.com/)
-
-## Contact
-
-For questions or suggestions, you can contact [GogaNotClown](https://github.com/GogaNotClown/) via GitHub or through Telegram [somethhhhhing](https://t.me/somethhhhhing).
 
 ## Project Status
 

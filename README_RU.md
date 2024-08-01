@@ -9,7 +9,6 @@
 - [Установка](#установка)
 - [Конфигурация](#конфигурация)
 - [Используемые технологии](#используемые-технологии)
-- [Контакты](#контакты)
 - [Статус проекта](#статус-проекта)
 
 ## Установка
@@ -117,11 +116,6 @@ content: [
 - JS (JavaScript)
 - [TailwindCSS](https://tailwindcss.com/)
 - [daisyUI](https://daisyui.com/)
-
-## Контакты
-
-Для вопросов или предложений вы можете связаться с [GogaNotClown](https://github.com/GogaNotClown/) через GitHub или
-через телеграм [somethhhhhing](https://t.me/somethhhhhing).
 
 ## Статус проекта
 
